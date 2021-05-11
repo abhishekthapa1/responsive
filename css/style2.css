@@ -1,0 +1,61 @@
+*{
+
+}
+body{
+    background-color: grey;
+    background-image: url("luffy.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#heading{
+    background-color: None;
+    font-weight: 900;
+}
+h1{
+    font-weight: 900;
+}
+#menu{
+    background-color: yellowgreen;
+    padding:0;
+    padding-bottom: 0px;
+}
+#menu ul, #subject ul{
+    list-style: none;
+}
+#menu ul li,#subject ul li{
+    display: inline-block;
+    padding-right: 20px;
+}
+#content{
+    background-color:rgb(139, 93, 139);
+    font-family:'Times New Roman', Times, serif;
+    font-weight:700; 
+    font-size: 20px;
+    color:rgb(15, 15, 15);
+
+    
+}
+a{
+    text-decoration-color: none;
+    font-size: 20px;
+    color:rgb(222, 245, 18);
+    font-weight:800;
+}
+#subject{
+    text-decoration-color: none;
+    background-image: url("Straw.png");
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
+    color:whitesmoke;
+
+}
+#footers{
+    background-image: url("lufff2.jpg");
+    background-position: center;
+    background-size: cover;
+    padding:0;
+    font-size: 20px;
+    color:rgb(251, 252, 248);
+    font-weight:800;
+}
